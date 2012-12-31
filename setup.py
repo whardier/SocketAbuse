@@ -14,7 +14,7 @@ setup(
     author = socketabuse.__author__,
     author_email = socketabuse.__email__,
     packages = ['socketabuse'],
-    url='https://github.com/whardier/SocketAbuse'
+    url='https://github.com/whardier/SocketAbuse',
     license = socketabuse.__license__,
     description = socketabuse.__description__,
     long_description = long_desc,
